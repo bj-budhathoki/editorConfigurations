@@ -5,9 +5,16 @@ A) For Vscode and react-app
 4)go to .eslint file and write rules like:
    {
       "extends":["react-app","prettier"],
-      "rules":{
-         "prettier/prettier":"error"
-      },
+      "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+                "trailingComma": "es5",
+                "singleQuote": true,
+                "printWidth": 120
+            }
+        ]
+    },
       "plugins":["prettier"]
    }
    that's it. :)
