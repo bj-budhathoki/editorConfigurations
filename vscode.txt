@@ -1,6 +1,6 @@
 A) For Vscode and react-app
 1) install eslint extension
-2)install prettier eslint-congfig-prettier eslint-plugin-prerrier
+2)install prettier eslint-config-prettier eslint-plugin-prettier
 3)craete .eslintrc file.
 4)go to .eslint file and write rules like:
    {
