@@ -1,22 +1,39 @@
 1)install sublime jsprettier
 //user setting
 {
-   "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
-   "draw_white_space": "all",
-   "font_face": "Fira Code",
-   "font_options":
-   [
-      "italic"
-   ],
-   "font_size": 16,
-   "ignored_packages":
-   [
-      "Vintage"
-   ],
-   "line_padding_top": 10,
-   "tab_size": 3,
-   "theme": "Brogrammer.sublime-theme",
-   "translate_tabs_to_spaces": true,
-   "trim_automatic_white_space": true,
-   "trim_trailing_white_space_on_save": true
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Space Mono",
+	"font_options":
+	[
+		"italic"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"sidebar_xlarge": true,
+	"tab_size": 3,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
 }
+
